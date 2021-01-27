@@ -2,7 +2,7 @@
 
 A Currency Converter app developed using Kotlin using MVVM Design Pattern. Includes Dagger Hilt Dependency Injection as well.
 <div style="align:center">
-  <img src ="/images/result.jpg"/>
+  <img src ="/images/result.png"/>
 </div>
 
 
